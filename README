@@ -7,8 +7,9 @@ Run:
 Features:
 	. quiting with x button or ESC
 	. moving with arrows
-	. making hits with paddle speed of the ball increases
+	. making hits with paddle increases speed of the ball
 	. after every goal ball spawns in a center
-	  moving with random velocity in a random direction
+	  moving in a random direction with random velocity
 	. game continues till 5 goals will be counted
+	. score is displayed in console
 	. bot has different behavior during a game
