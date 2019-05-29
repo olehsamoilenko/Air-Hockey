@@ -1,0 +1,14 @@
+Installing libraries:
+	make install
+Compiling:
+	make
+Run:
+	./Air-Hockey
+Features:
+	. quiting with x button or ESC
+	. moving with arrows
+	. making hits with paddle speed of the ball increases
+	. after every goal ball spawns in a center
+	  moving with random velocity in a random direction
+	. game continues till 5 goals will be counted
+	. bot has different behavior during a game
